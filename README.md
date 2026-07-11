@@ -4,7 +4,7 @@ This is my solution to the Frontend Mentor QR Code Component challenge.
 
 ## 📸 Screenshot
 
-![Project Screenshot](qr-code-component/images/Screenshot.png)
+![Project Screenshot](images/Screenshot.png)
 
 ## 🔗 Links
 
